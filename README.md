@@ -1,5 +1,5 @@
 # Hi I'm Natcha, Welcome to my Github profile 👋
-🙋‍♂️Hello, my name is Natcha Suphapjan or call me Donut. I am 21 years old. I am currently in my 3rd year at King Mongkut's University of Technology Thonburi. Faculty of Science, Department of Mathematics, Applied Computer Science
+🙋‍♂️Hello, my name is Natcha Suphapjan or call me Donut. I am 22 years old. I am currently in my 4rd year at King Mongkut's University of Technology Thonburi. Faculty of Science, Department of Mathematics, Applied Computer Science
 
 📍 I am interested in learning and developing myself in UX/UI Design, Front-end. </br>
 📫 How to reach me **natcha.6@mail.kmutt.ac.th**
